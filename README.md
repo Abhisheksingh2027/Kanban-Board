@@ -1,4 +1,4 @@
 # Kanban-Board
 ## Screenshot
 
-![Kanban Board](Image/demo.png)
+![Kanban Board Demo](Image/demo.png)
